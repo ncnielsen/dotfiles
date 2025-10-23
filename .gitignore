@@ -6,3 +6,4 @@ chromium/first_party_sets.db
 chromium/Default/Cookies
 /obsidian/**
 /dconf/**
+/ibus/**
