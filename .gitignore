@@ -13,3 +13,5 @@ chromium/Default/Cookies
 /gtk-3.0/**
 /mozilla/**
 /nautilus/**
+/procps/**
+/pulse/**
